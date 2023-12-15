@@ -334,10 +334,3 @@ DELETED: 12
 ## Conclusion
 
 `ion-js` in combination with `classic-level` offers a robust and intuitive approach to handling local DynamoDB data, making it an essential tool for developers working with AWS services. By simplifying the complexities of database operations, `ion-js` lets you focus on things like running analysis on your backups after a data-corrupting issue or experiment with your entity structure without having to waste your money in AWS DynamoDB console.
-
-## Changelog
-
-### 12/15/23
-* added better links
-* added a repo with examples
-* improved intro wording
