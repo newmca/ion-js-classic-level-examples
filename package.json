@@ -1,0 +1,17 @@
+{
+  "name": "ion-js-classic-level-examples",
+  "version": "1.0.0",
+  "description": "This repo is supplemental reading to my article over at www.transmitteddreams.xyz/blog/amazon_ion",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example-1": "node examples/1-level-dbs.js",
+    "example-2": "node examples/1-level-dbs.js"
+  },
+  "author": "github.com/newmca",
+  "dependencies": {
+    "classic-level": "^1.2.0",
+    "ion-js": "^4.3.0"
+  }
+}
