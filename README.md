@@ -1,13 +1,3 @@
----
-title: "Parsing Local Amazon Ion Data with ion-js and classic-level"
-date: 2023-10-29
-draft: false
-tags:
-  - "software"
-  - "javascript"
-  - "databases"
----
-
 This repo is supplemental reading to my blog [article](https://www.transmitteddreams.xyz/blog/amazon_ion/). Clone and try the following scripts:
 
 ```bash
